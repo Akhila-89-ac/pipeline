@@ -1,0 +1,11 @@
+
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+models/
+*.pkl
+*.pt
+.model_cache/
+data/raw/
+*.csv
